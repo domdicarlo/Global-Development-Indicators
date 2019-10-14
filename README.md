@@ -12,3 +12,7 @@ I contributed to many aspects of this piece, but primarily with the grid and wra
 ## What could be worked on
 
 While we have a barebones app, it certainly needs some cosmetic updating as well as reduced inefficiencies in some places. The page runs fairly slowly, which should be improvable.
+
+## Running the project
+
+If you have yarn on your computer, you can simply execute yarn run from the scaffold folder, which will run a server to view the website.
